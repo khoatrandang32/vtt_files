@@ -1,98 +1,93 @@
 WEBVTT	#Elemental Media Engine(TM) 2.17.1.0
-X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:183000
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:186000
 
-00:00:07.420 --> 00:00:08.186
-Chào bạn lần nữa!
+00:00:07.700 --> 00:00:09.433
+Trong bài học đầu tiên này, chúng ta sẽ xem xét
+việc làm việc với các **hình dạng** (shapes),
 
-00:00:08.260 --> 00:00:10.559
-Trong bài học này, chúng ta sẽ xem xét
-cách sử dụng **đối xứng** (symmetry)
+00:00:09.580 --> 00:00:13.546
+chúng ta sẽ thấy cách phân loại chúng và
+cách sử dụng chúng trong nhân vật của mình.
 
-00:00:10.590 --> 00:00:11.910
-để cải thiện nhân vật của bạn.
+00:00:13.820 --> 00:00:15.270
+Ngay từ buổi bình minh của nhân loại,
 
-00:00:12.759 --> 00:00:15.909
-Bạn đã bao giờ thử
-**lật ngang** (flipping) bản vẽ của mình
+00:00:15.346 --> 00:00:17.813
+chúng ta đã gán cho các hình dạng
+một ý nghĩa biểu tượng khổng lồ
 
-00:00:16.029 --> 00:00:17.880
-sau khi dành rất nhiều thời gian cho nó
+00:00:18.070 --> 00:00:20.670
+và chúng ta đã dựa vào chúng
+để hiểu môi trường xung quanh.
 
-00:00:18.140 --> 00:00:20.560
-và rồi thấy nó trông như thế này chưa?
+00:00:22.430 --> 00:00:26.313
+Đôi khi, chúng ta thậm chí còn tìm kiếm ý nghĩa
+và tính hữu dụng trong các hình thức tự nhiên.
 
-00:00:21.890 --> 00:00:23.323
-Điều này khá phổ biến
+00:00:27.700 --> 00:031.240
+Với những hình dạng khác, chúng ta có thể tạo ra các hình dạng mới
+để đạt được những mục tiêu và chức năng cụ thể.
 
-00:00:23.519 --> 00:00:25.769
-và nó xảy ra
-vì bộ não của chúng ta đã quen với
+00:00:32.530 --> 00:00:35.330
+Dù bằng cách này hay cách khác, các hình dạng luôn
+hiện diện trong cuộc sống hàng ngày của chúng ta,
 
-00:00:26.080 --> 00:00:28.080
-và thích nghi với việc
-chỉ nhìn hình ảnh
+00:00:36.270 --> 00:00:38.136
+đó là lý do tại sao chúng ta
+rất quen thuộc với chúng
 
-00:00:28.243 --> 00:00:29.826
-từ một góc nhìn cụ thể.
+00:00:38.263 --> 00:00:40.113
+và bộ não của chúng ta ngay lập tức nhận ra chúng.
 
-00:00:30.310 --> 00:00:32.009
-Đó là lý do tại sao chúng ta cần làm quen với
+00:00:41.480 --> 00:00:43.713
+Đây là điều cơ bản
+mà chúng ta phải tận dụng
 
-00:00:32.080 --> 00:00:35.396
-việc **lật ngang** bản vẽ của mình
-nhiều lần khi cần thiết.
+00:00:43.746 --> 00:00:45.713
+khi chúng ta thiết kế
+nhân vật của mình.
 
-00:00:36.880 --> 00:00:39.860
-Hoặc, chúng ta có thể bắt đầu bằng cách
-vẽ trực tiếp với **đối xứng**
+00:00:46.033 --> 00:00:47.966
+Và đây là cách dễ dàng để người xem
 
-00:00:39.930 --> 00:00:42.340
-để chúng ta không gặp phải
-hiệu ứng đáng sợ này
+00:00:48.160 --> 00:00:49.876
+nhận ra và đồng cảm với họ.
 
-00:00:42.689 --> 00:00:44.039
-và để nhân vật của chúng ta
+00:00:50.590 --> 00:00:52.390
+Một mặt,
+chúng ta có **hình dạng hình học** (geometric shapes)
 
-00:00:44.043 --> 00:00:46.959
-cũng có một **hình bóng (silhouette) vững chắc**
-khác biệt với các nhân vật khác.
+00:00:52.483 --> 00:00:55.066
+dựa trên
+toán học.
 
-00:00:48.223 --> 00:00:51.073
-Chúng ta cũng có thể sử dụng nó
-trong những minh họa phức tạp hơn.
+00:00:56.410 --> 00:00:58.209
+Mặt khác,
+chúng ta có **hình dạng hữu cơ** (organic shapes)
 
-00:00:51.280 --> 00:00:54.090
-Trong hai ví dụ này,
-chúng ta đã sử dụng đối xứng
+00:00:58.380 --> 01:00:680
+mà chúng ta thường
+thấy trong tự nhiên.
 
-00:00:54.360 --> 00:00:56.870
-cho các vật thể mà
-các nhân vật đang mang
+00:01:01.620 --> 01:03.436
+Và cuối cùng,
+có **hình dạng trừu tượng** (abstract shapes)
 
-00:00:57.220 --> 00:00:58.410
-và cho cả nền (background).
+01:03.500 --> 01:06.616
+thường không có
+hình dạng dễ nhận biết
 
-00:00:59.930 --> 00:01:02.760
-Một trong những điều tôi thích
-ở đối xứng là
+01:06.830 --> 01:08.920
+và thường là sự kết hợp
+của các loại hình dạng khác.
 
-00:01:02.930 --> 00:01:04.780
-việc **điều chỉnh tỷ lệ khuôn mặt**.
+01:00:03.010 --> 01:00:04.590
+Trong các video sắp tới,
 
-00:01:05.110 --> 00:01:07.310
-Hai đặc điểm trên khuôn mặt
-mang lại nhiều cá tính nhất
+01:00:04.660 --> 01:00:07.110
+chúng ta sẽ phân tích
+các loại hình dạng khác nhau
 
-00:01:07.470 --> 00:01:09.060
-là **mắt** và **mũi**.
-
-00:01:09.630 --> 00:01:11.660
-Khoảng cách giữa chúng
-
-00:01:11.930 --> 00:01:14.540
-và tỷ lệ của chúng
-có thể được điều chỉnh tùy ý.
-
-00:01:14.950 --> 00:01:17.550
-Điều này mang lại cho chúng ta rất nhiều
-lựa chọn cho nhân vật của mình.
+01:00:07.407 --> 01:00:09.740
+và cách chúng ta có thể sử dụng chúng
+để thiết kế nhân vật của mình.
