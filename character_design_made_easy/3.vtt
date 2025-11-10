@@ -1,0 +1,430 @@
+WEBVTT	#Elemental Media Engine(TM) 2.17.1.0
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:183000
+
+00:00:07.880 --> 00:00:10.270
+Như tôi đã nói, khóa học này sẽ
+không sử dụng một công cụ cụ thể nào,
+
+00:00:10.340 --> 00:00:12.456
+nhưng đây là một video hướng dẫn nhỏ
+
+00:00:12.616 --> 00:00:15.166
+trong trường hợp bạn muốn dùng
+chương trình giống tôi.
+
+00:00:15.530 --> 00:00:17.980
+Tất nhiên, nếu bạn định sử dụng
+chương trình vẽ khác
+
+00:00:18.116 --> 00:00:20.983
+như **Photoshop, Procreate, hoặc Clip Studio**,
+
+00:00:21.380 --> 00:00:22.450
+bạn có thể bỏ qua video này.
+
+00:00:23.040 --> 00:00:26.006
+Như bạn sẽ thấy,
+giao diện rất đơn giản
+
+00:00:26.106 --> 00:00:27.456
+trong **SketchBook**.
+
+00:00:28.513 --> 00:00:31.030
+Chúng ta có ba bảng chính
+
+00:00:31.726 --> 00:00:33.543
+và một số tính năng thông thường
+
+00:00:33.939 --> 00:00:36.573
+như hai biểu tượng bong bóng
+chúng ta thấy ở phía trên này.
+
+00:00:36.740 --> 00:00:40.140
+Hoặc dải công cụ này chúng ta thấy ở đây
+ở phía dưới bên trái,
+
+00:00:40.860 --> 00:00:43.626
+chúng ta có thẻ **Lagoon**,
+cho phép chúng ta
+
+00:00:44.400 --> 00:00:48.033
+ẩn hoặc hiển thị
+các yếu tố khác nhau
+
+00:00:48.339 --> 00:00:50.089
+trong giao diện của chương trình.
+
+00:00:50.120 --> 00:00:52.453
+Chúng ta cũng có thể ẩn
+
+00:00:53.280 --> 00:00:55.263
+các thanh điều khiển này.
+
+00:00:55.933 --> 00:00:58.833
+Bắt đầu với **bảng cọ vẽ** nhé,
+
+00:00:59.289 --> 00:01:00.673
+là bảng chúng ta có ở bên trái này.
+
+00:01:00.900 --> 00:01:03.800
+Như bạn thấy, chúng ta có hai tùy chọn này
+ở trên cùng, hai nút này.
+
+00:01:04.420 --> 00:01:06.280
+Một bên, chúng ta có
+**thuộc tính cọ vẽ**,
+
+00:01:06.410 --> 00:01:09.410
+nơi bạn có thể tinh chỉnh
+tất cả các thuộc tính của
+
+00:01:10.003 --> 00:01:11.036
+mỗi cọ vẽ.
+
+00:01:11.550 --> 00:01:13.683
+Điều này tất nhiên bao gồm
+**kích thước và độ mờ**.
+
+00:01:16.360 --> 00:01:17.780
+Ở đây chúng ta có các thanh trượt này,
+
+00:01:18.000 --> 00:01:22.229
+nhưng tôi sẽ nói với bạn
+về các thanh điều khiển này
+
+00:01:23.300 --> 00:01:24.933
+mà, như bạn sẽ thấy,
+
+00:01:25.203 --> 00:01:27.870
+có thể được sử dụng
+một cách rất trực quan.
+
+00:01:28.230 --> 00:01:30.480
+Nếu chúng ta di chuyển theo chiều dọc,
+chúng ta có thể sử dụng nó
+
+00:01:30.740 --> 00:01:32.956
+để thay đổi **độ mờ**
+và nếu chúng ta di chuyển theo chiều ngang,
+
+00:01:33.860 --> 00:01:35.510
+chúng ta có thể thay đổi **kích thước cọ**.
+
+00:01:37.070 --> 00:01:40.070
+Với thẻ này, chúng ta có thể mở
+
+00:01:41.663 --> 00:01:44.663
+toàn bộ **thư viện cọ vẽ**.
+Như bạn thấy, có rất nhiều.
+
+00:01:44.756 --> 00:01:47.073
+Ở đây tôi đã chọn
+cọ của mình.
+
+00:01:48.426 --> 00:01:50.676
+Bạn có thể **nhập cọ**, **xuất cọ**,
+
+00:01:51.710 --> 00:01:53.170
+và sử dụng bất cứ loại nào bạn thích.
+
+00:01:54.670 --> 00:01:56.060
+Nếu chúng ta kéo bảng này,
+
+00:01:58.080 --> 00:02:01.963
+chúng ta có thể thêm nó vào
+**bảng cọ vẽ chính** của chúng ta
+
+00:02:02.100 --> 00:02:04.566
+hoặc thư viện cọ vẽ chính,
+luôn hiển thị.
+
+00:02:05.410 --> 00:02:07.070
+Bắt đầu với **thanh công cụ** nhé.
+
+00:02:07.453 --> 00:02:08.903
+Như bạn thấy, chúng ta có
+
+00:02:09.460 --> 00:02:11.630
+các tùy chọn **hoàn tác** và **làm lại**
+điển hình.
+
+00:02:14.390 --> 00:02:17.800
+Đây là **công cụ thu phóng** của chúng ta,
+
+00:02:18.920 --> 00:02:20.800
+cho phép chúng ta tinh chỉnh
+
+00:02:21.620 --> 00:02:23.750
+chính **canvas**;
+chúng ta có thể xoay nó,
+
+00:02:27.030 --> 00:02:29.500
+chúng ta có thể phóng to, di chuyển nó,
+
+00:02:30.929 --> 00:02:32.079
+căn giữa nó,
+
+00:02:34.066 --> 00:02:35.083
+và cuối cùng,
+
+00:02:36.730 --> 00:02:38.563
+chúng ta có thể ẩn nó bằng nút X.
+
+00:02:38.936 --> 00:02:43.186
+Đây là kiểu điều khiển thu phóng
+mà bạn sẽ thấy ở rất nhiều phần mềm.
+
+00:02:43.890 --> 00:02:45.073
+Tất nhiên, chúng ta cũng có
+
+00:02:48.300 --> 00:02:50.760
+**công cụ chọn**,
+mà chúng ta có thể loại bỏ ở đây.
+
+00:02:52.300 --> 00:02:54.566
+Chúng ta cũng có các công cụ chọn
+"từ tính" bạn thấy ở đây
+
+00:02:54.710 --> 00:02:56.896
+và trong các phần mềm khác nữa.
+
+00:02:58.983 --> 00:03:00.000
+À.
+
+00:03:01.970 --> 00:03:04.253
+Như tôi đã nói, tôi sẽ không
+đi sâu vào chi tiết về những công cụ này
+
+00:03:04.413 --> 00:03:07.180
+vì tôi chỉ đơn giản là cung cấp cho bạn
+một cái nhìn tổng quan cơ bản
+
+00:03:08.060 --> 00:03:10.810
+về chương trình
+để bạn có thể bắt đầu sử dụng nó,
+
+00:03:11.103 --> 00:03:13.970
+không bị lạc,
+và cũng có thể
+
+00:03:14.433 --> 00:03:16.183
+thay đổi kích thước canvas của bạn.
+
+00:03:21.810 --> 00:03:25.110
+Và với công cụ này
+hoặc loại
+
+00:03:26.590 --> 00:03:28.923
+chọn này, chúng ta có thể
+
+00:03:29.616 --> 00:03:30.766
+di chuyển
+
+00:03:32.290 --> 00:03:34.456
+bản vẽ hoặc đúng hơn là
+nội dung của lớp.
+
+00:03:34.570 --> 00:03:37.936
+Tôi sẽ vẽ nhanh một nhân vật
+để bạn có thể thấy nó hoạt động thế nào.
+
+00:03:44.450 --> 00:03:47.299
+Thành thật mà nói, đây là một
+công cụ thực sự hữu ích
+
+00:03:47.373 --> 00:03:49.840
+để thiết kế nhân vật
+vì chúng ta có thể di chuyển,
+
+00:03:50.110 --> 00:03:52.160
+xoay và thay đổi chúng.
+
+00:03:53.230 --> 00:03:54.760
+Như bạn sẽ thấy, chúng ta có thể nén nó,
+
+00:03:55.350 --> 00:03:57.400
+chúng ta có thể làm cho nó mỏng hơn,
+
+00:03:58.270 --> 04:00:436
+và tinh chỉnh
+
+00:04:00.850 --> 04:03:380
+tỷ lệ nhân vật,
+mà bạn có thể thấy
+
+04:03:790 --> 04:05:120
+là quan trọng, phải không?
+
+04:08:740 --> 04:12:200
+Và khi chúng ta làm xong,
+chúng ta có thể ẩn nó đi lần nữa.
+
+04:13:760 --> 04:16:589
+Đây là một tùy chọn hữu ích khác
+vì nó cho phép chúng ta
+
+04:17:140 --> 04:19:919
+biến dạng phần trung tâm của nhân vật
+
+04:22:240 --> 04:23:470
+và làm biến dạng nó
+
+04:24:810 --> 04:25:979
+theo nhiều
+
+04:26:953 --> 04:28:103
+hướng khác nhau.
+
+04:29:540 --> 04:30:790
+Tất nhiên, chúng ta cũng có
+
+04:31:463 --> 04:32:696
+**công cụ đổ sơn**.
+
+04:33:550 --> 04:36:229
+Trong trường hợp này, vì đây không phải
+là một vùng chọn đóng kín,
+
+04:37:053 --> 04:40:236
+chúng ta không thể tô màu
+chỉ phần đó, nhưng
+
+04:42:230 --> 04:46:330
+nếu chúng ta có một vùng được đóng kín,
+chúng ta có thể tô nó
+
+04:46:650 --> 04:49:159
+bằng **màu đồng nhất** hoặc **chuyển sắc**.
+
+04:49:690 --> 04:51:190
+Chúng ta có thể thêm **văn bản**.
+
+04:51:610 --> 04:53:910
+Tôi sẽ bỏ qua
+tất cả các tùy chọn này.
+
+04:54:050 --> 04:56:533
+Nếu bạn muốn tìm hiểu,
+có nhiều công cụ khác như
+
+04:56:960 --> 04:59:076
+**thước kẻ**, **đối xứng**,
+
+04:59:590 --> 05:00:000
+à, không phải công cụ đối xứng, vì
+điều chúng ta sắp xem bây giờ
+
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:183003
+
+00:00:07.903 --> 00:00:08.970
+Khóa học này nói về cái gì?
+
+00:00:10.420 --> 00:00:11.770
+Nói một cách tổng quát,
+
+00:00:11.846 --> 00:00:15.329
+khi chúng ta tạo ra nhân vật,
+có hai giai đoạn chính.
+
+00:00:16.436 --> 00:00:18.003
+Thứ nhất, chúng ta có **khám phá**,
+
+00:00:18.280 --> 00:00:21.060
+đây là giai đoạn **sáng tạo**
+và **thử nghiệm** nhiều hơn.
+
+00:00:22.200 --> 00:00:25.033
+Mọi thứ đều được chấp nhận ở đây và những ý tưởng
+
+00:00:25.203 --> 00:00:27.369
+độc đáo nhất thường là những ý tưởng điên rồ và bất ngờ nhất.
+
+00:00:28.019 --> 00:00:30.069
+Bạn không được đặt ra bất kỳ giới hạn nào,
+
+00:00:30.780 --> 00:00:33.130
+ngay cả khi bạn đang làm việc
+cho một khách hàng
+
+00:00:33.253 --> 00:00:34.986
+và có các yêu cầu kỹ thuật cần tuân theo.
+
+00:00:36.050 --> 00:00:37.833
+Tiếp theo, là giai đoạn **phát triển**,
+
+00:00:37.899 --> 00:00:39.683
+đây là phần kỹ thuật của mọi thứ
+
+00:00:39.770 --> 00:00:41.860
+nơi chúng ta phải
+làm cho nhân vật trở nên sống động
+
+00:00:42.080 --> 00:00:44.013
+và nơi chúng ta cần phải chính xác hơn
+
+00:00:44.240 --> 00:00:46.340
+và nâng ý tưởng của mình lên một tầm cao mới.
+
+00:00:47.560 --> 00:00:51.560
+Ở đây, các khái niệm vẽ như **giải phẫu**
+và **màu sắc** là quan trọng.
+
+00:00:52.590 --> 00:00:55.339
+Trong khóa học này, chúng ta sẽ
+tập trung độc quyền
+
+00:00:55.530 --> 00:00:57.980
+vào **giai đoạn khám phá**,
+mà tôi chắc chắn thấy là
+
+00:00:58.253 --> 00:00:59.886
+thú vị và vui vẻ nhất.
+
+00:01:00.770 --> 00:01:03.870
+Như bạn sẽ thấy, khóa học này sẽ không
+thiết kế một nhân vật cụ thể.
+
+00:01:03.956 --> 00:01:06.539
+Cũng sẽ không xem xét
+bất kỳ công cụ cụ thể nào.
+
+00:01:06.790 --> 00:01:08.156
+Điều tôi muốn chia sẻ với bạn
+
+00:01:08.190 --> 00:01:10.056
+là cách tôi hiểu về
+**thiết kế nhân vật**
+
+00:01:10.220 --> 00:01:12.253
+dựa trên kinh nghiệm và quá trình học tập của tôi
+
+00:01:12.563 --> 00:01:15.263
+và cung cấp cho bạn một số bài tập
+mà tôi nghĩ sẽ giúp bạn
+
+00:01:15.386 --> 00:01:17.186
+**tránh bế tắc sáng tạo** (creative block).
+
+00:01:17.550 --> 00:01:19.933
+Tôi sẽ sử dụng
+**bảng vẽ đồ họa** (graphics tablet)
+
+00:01:20.050 --> 00:01:21.733
+và **Autodesk SketchBook**
+
+00:01:21.816 --> 00:01:24.133
+vì nó là một chương trình khá đơn giản
+và trực quan
+
+00:01:24.183 --> 00:01:25.716
+và quan trọng nhất là **đa nền tảng**.
+
+00:01:25.810 --> 00:01:27.143
+Tất nhiên, bạn có thể sử dụng
+
+00:01:27.206 --> 00:01:29.273
+bất kỳ chương trình vẽ nào
+bạn có sẵn.
+
+00:01:29.433 --> 00:01:30.483
+Chúng ta bắt đầu chứ?
